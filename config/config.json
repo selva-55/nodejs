@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "Selva14@",
-    "database": "gk",
-    "host": "localhost",
+    "username": "admin",
+    "password": "Selva14121998",
+    "database": "actech",
+    "host": "actech.cb4pcxrqsf99.us-east-2.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
