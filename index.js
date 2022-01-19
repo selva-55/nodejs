@@ -8,7 +8,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 const corsOptions = {
     // origin: 'http://ec2-65-0-86-209.ap-south-1.compute.amazonaws.com/',
-    origin: 'http://ec2-18-118-109-39.us-east-2.compute.amazonaws.com',
+    origin: 'http://ec2-18-224-20-254.us-east-2.compute.amazonaws.com',
     credentials: true,            //access-control-allow-credentials:true
     optionSuccessStatus: 200,
     exposedHeaders: ['x-auth-token'],
